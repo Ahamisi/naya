@@ -36,7 +36,7 @@ function App() {
           <span class="form-contain signUp">
             <h3>Create Your Account</h3>
             <p>True Personalization at its peak</p>
-            <input class="w100" name="email" type="email" placeholder="enter email" reqired autocomplete='off' />
+            <input class="w100" name="email" type="email" placeholder="enter email" required autocomplete='off' />
             <input type="password" name="password" class="w100" placeholder="enter Password" required />
             <select name="user_type" class="w100 user_type">
               <option value="">What do you want to register as</option>
